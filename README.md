@@ -1,11 +1,12 @@
-# TableChamp
+# Table Tennis Elo System
 
 **Tablesports leaderboard app**
-Track each ping pong, pool, foosball, air hockey, or shuffleboard game that's played. Find out who really is number one (in your office, or out of your group of friends).
+Track players' elo rating based on official USATT regulations: https://www.teamusa.org/usa-table-tennis/ratings/rating-system
+Store the results of every table tennis match, and update ratings accordingly.
 
 ## What is it?
 
-With TableChamp, you can add players, track every game that is played, and always know who's #1.
+You can add players, track every game that is played, and always know who's #1.
 
 ![Adding a Score](http://tablechamp.com/img/13.gif)
 
@@ -17,9 +18,6 @@ You can manage all of the settings of the app in one convenient sidebar:
 
 ![Edit Settings](http://tablechamp.com/img/11.gif)
 
-You can even select from one of 14 languages:
-
-![Translated into 14 languages](http://tablechamp.com/img/10.gif)
 
 ## How does it work?
 
